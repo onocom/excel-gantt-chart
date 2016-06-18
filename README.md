@@ -1,4 +1,4 @@
-# excel-gantt-chart
+# エクセルで工程管理・実績管理するためのガントチャート
 
 Excel 2013 Gantt chart
 
