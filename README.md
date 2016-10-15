@@ -2,6 +2,8 @@
 
 Excel 2013 Gantt chart
 
+http://onocom.net/blog/?p=698
+
 # Lisence
 
  MIT license
